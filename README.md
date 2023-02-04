@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm chandan kumar</h1>
 <h3 align="center">I am pursuing in diploma in CSE</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gxyzxxklbf0gzk3y4lars9d90si7hn2ud89ogtxh&rid=200w.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/24/animated-computer-gif/computer-gif-by-ultrastallion-on-deviantart.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar345&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar345" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/chandan14931576" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/chandan14931576?logo=twitter&style=for-the-badge" alt="https://twitter.com/chandan14931576" /></a> </p>
