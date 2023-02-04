@@ -3,11 +3,14 @@
 <img align="right" alt="coding" width="400" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar345&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar345" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/chandan14931576" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/chandan14931576?logo=twitter&style=for-the-badge" alt="https://twitter.com/chandan14931576" /></a> </p>
-
+- 😀   welcom to my profile
+- 💻🖥 I'm currently working on my computer
+- 😊   I'm currently learning ethical hacking 
+- 🤝   I'm looking for help to protect our country for cyber crimes
+- 🎮   I'm clash of clan and Bgmi lover 
+- 🔼   subscribe  to my [YouTube channel](https://www.youtube.com/@MRC_hacker/featured) because i upload new videos every time i feel like it. 
 - 📫 How to reach me **chandan970959@gmail.com**
-
-- ⚡ Fun fact **become hacker😁**
+- ⚡ **become hacker😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
