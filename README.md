@@ -1,21 +1,20 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm chandan kumar</h1>
-<h3 align="center">I am pursuing in diploma in CSE</h3>
+<h3 align="center">I have done diploma in CSE</h3>
 <img align="right" alt="coding" width="400" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar345&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar345" /> </p>
 
-- 😀   welcom to my profile
-- 💻🖥 I'm currently working on my computer
-- 😊   I'm currently learning ethical hacking 
-- 🤝   I'm looking for help to protect our country for cyber crimes
-- 🎮   I'm clash of clan and Bgmi lover 
-- 🔼   subscribe  to my [YouTube channel](https://www.youtube.com/@MRC_hacker/featured) because i upload new videos every time i feel like it. 
-- 📫 How to reach me **chandan970959@gmail.com**
+- 😀   welcome to my profile
+- 😊   I'm currently learning Software testing 
+- 🤝   I'm looking for help to protect our country from cyber crimes
+- 🔼   subscribe  to my [YouTube channel](https://www.youtube.com/@MRC_hacker/featured) because I upload new videos whenever I feel like it. 
+- 📫   How to reach me **chandan970959@gmail.com**
 - ⚡ **become hacker😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/chandan14931576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chandan14931576" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandan-kumar-326932264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-kumar-326932264/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/chandan-kumar-326932264/](https://www.linkedin.com/in/chandan-kumar-326932264/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-kumar-326932264/" height="30" width="40" /></a>
 <a href="https://instagram.com/chandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrc hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrc hacker" height="30" width="40" /></a>
 </p>
