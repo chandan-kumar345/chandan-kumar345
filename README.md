@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm chandan kumar</h1>
-<h3 align="center">I have done diploma in CSE</h3>
+
 <img align="right" alt="coding" width="400" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar345&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar345" /> </p>
 
