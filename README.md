@@ -4,12 +4,12 @@
 <img align="right" alt="coding" width="400" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kumar345&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kumar345" /> </p>
 
-- 😀   welcome to my profile
-- 😊   I'm currently learning Software testing 
-- 🤝   I'm looking for help to protect our country from cyber crimes
-- 🔼   subscribe  to my [YouTube channel](https://www.youtube.com/channel/UC4SqQwqeF_6YbZPYJCHAoGQ) because I upload new videos whenever I feel like it. 
-- 📫   How to reach me **bachandan48@gmail.com**
-- ⚡ **become hacker😁**
+- 👋 Welcome to my profile!
+- 💻 I have a foundational understanding of Software Testing and continuously strive to deepen my knowledge in the QA domain. 
+- 🎓 Currently pursuing a B.Tech in Artificial Intelligence and Machine Learning, with a strong interest in real-world applications of technology.
+- 🔼   subscribe  to my [YouTube channel](https://www.youtube.com/channel/UC4SqQwqeF_6YbZPYJCHAoGQ)  — I post tech-related content whenever inspiration strikes!
+- 📬    You can reach me at **chandanyaduvanshi190@gmail.com**
+- 🚀  **Aspiring Software Engineer — motivated to build solutions that make a difference.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
